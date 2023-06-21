@@ -1,7 +1,7 @@
 # Levanter and Haliax
 <!--intro-start-->
 
-Levanter and Haliax are libraries based on [Jax](https:://github.com/google/jax) and [Equinox](https://github.com/patrick-kidger/equinox)
+luish_kutty and Haliax are libraries based on [Jax](https:://github.com/google/jax) and [Equinox](https://github.com/patrick-kidger/equinox)
 for training deep learning models, especially [foundation models](https://en.wikipedia.org/wiki/Foundation_models).
 Haliax is a named tensor library (modeled on [Tensor Considered Harmful](https://nlp.seas.harvard.edu/NamedTensor)) that focuses on improving the legibility and compositionality of deep learning code while still maintaining efficiency and scalability.
 Levanter is a library for training foundation models built on top of Haliax.
